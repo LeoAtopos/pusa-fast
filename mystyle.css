@@ -1,0 +1,101 @@
+#header{
+	height: 50;
+	background-color: #252533;
+	min-width: 600px;
+	max-width: 1140px;
+	text-align: center;
+	background-position:center;
+	list-style-position: center;
+	background-repeat:no-repeat;
+}
+/*in-headers_________________________________________________________*/
+#logo{
+	height:48px;
+	width:48px;
+	padding:1px;
+	float:left;
+	margin-left: 10px;
+}
+#search{
+	float:left;
+	width: 180px;
+	margin-top:22px;
+	margin-left: 10px;
+	font-style:italic;
+}
+#beProjna{
+	float:right;
+	height: 26px;
+	margin-top:20px;
+	margin-right: 10px;
+}
+#login{
+	color:#F5F5F5;
+	float:right;
+	margin-top:22px;
+	margin-right: 20px;
+}
+/*_________________________________________________________________________*/
+
+
+#cover{
+ 	height: 300px;
+ 	text-align: center;
+	background-image : url(./images/cover.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	text-shadow:2px 2px 0px black;
+}
+/*in-covers_________________________________________________________*/
+#brand{
+	color:#F5F5F5;
+	font-size:60px;
+	line-height:100px;
+	font-weight:bold;
+}
+#slogan1{
+	color:#F5F5F5;
+	font-size:28px;
+	line-height:20px;
+	font-weight:bold;
+}
+#slogan2{
+	color:#F5F5F5;
+	font-size:28px;
+	line-height:40px;
+	font-weight:bold;
+	font-style:italic;
+}
+#learnmore{
+	color:#F5F5F5;
+	font-size:15px;
+	line-height:40px;
+	text-decoration:none;
+}
+#joinnow{
+	padding: 10px;
+}
+/*_____________________________________________________________________*/
+
+#log{
+	margin-top: 30px;
+	text-align: center;
+}
+
+#fdpersons{
+	text-align: left;
+}
+
+#fdprojects{
+	text-align: left;
+}
+.container{
+	max-width: 1025px;
+}
+
+#footer{
+	height: 250;
+	max-width: 1140px;
+	background-color: black;
+	vertical-align: bottom;
+}
